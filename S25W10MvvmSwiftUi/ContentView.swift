@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  S25W10MvvmSwiftUi
-//
-//  Created by Student on 11/10/25.
-//
+
 
 import SwiftUI
 
